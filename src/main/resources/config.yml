@@ -1,0 +1,3 @@
+default-tag: "USER"
+chat-format: "[$TAG] $PLAYER : $MESSAGE"
+nametag-format: "[$TAG] $PLAYER"
