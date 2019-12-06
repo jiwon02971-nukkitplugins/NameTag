@@ -6,7 +6,7 @@ import java.util.HashMap;
 import cn.nukkit.Player;
 import cn.nukkit.Server;
 import cn.nukkit.utils.Config;
-import iKguana.profiler.Profiler;
+import iKguana.artonline.Profiler.Profiler;
 
 public class NameTagAPI {
 	private static NameTagAPI $instance = null;
